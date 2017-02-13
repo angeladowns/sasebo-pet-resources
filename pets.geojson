@@ -11,7 +11,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "doctor",
+        "marker-symbol": "doctor-15",
         "marker-color": "#000000",
         "name": "Ikeda Vet Clinic",
         "address": "1002-37 Hinochō, Sasebo-shi, Nagasaki-ken 858-0923",
@@ -31,7 +31,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "doctor",
+        "marker-symbol": "doctor-15",
         "marker-color": "#000000",
         "name": "Hamaguchi Vet Clinic",
         "address": "10-8 Kamishimacho, Sasebo, Nagasaki Prefecture 857-0067",
@@ -51,7 +51,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "doctor",
+        "marker-symbol": "doctor-15",
         "marker-color": "#000000",
         "name": "Mine Pet Clinic",
         "address": "1101-22 Gonjōjichō, Sasebo-shi, Nagasaki-ken 859-3213",
@@ -71,7 +71,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "doctor",
+        "marker-symbol": "doctor-15",
         "marker-color": "#000000",
         "name": "Yamanaka Vet Clinic",
         "address": "629-2 Kurokamichō, Sasebo-shi, Nagasaki-ken 857-1152",
