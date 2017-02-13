@@ -2,6 +2,22 @@
   "type": "FeatureCollection",
   "features": [
     {
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      129.7136578,
+      33.1681097
+    ]
+  },
+  "properties": {
+    "marker-symbol": "star",
+    "marker-color": "#f78914",
+    "name": "Fleet Activities Sasebo",
+    "address": "Hirasemachi, Sasebo-shi, Nagasaki-ken 857-0056"
+  }
+},
+    {
       "type": "Feature",
       "geometry": {
         "type": "Point",
