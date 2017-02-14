@@ -142,17 +142,17 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.000,
-          33.000
+          129.79261599999995,
+          33.1302774
         ]
       },
       "properties": {
-        "marker-symbol": "doctor",
+        "marker-symbol": "dog-park",
         "marker-color": "#fa1414",
         "name": "Tsuruno Vet Clinic",
-        "address": "UNKNOWN",
+        "address": "4159-2 Arifukuchō, Sasebo-shi, Nagasaki-ken 859-3241",
         "telephone": "0956-58-6650",
-        "website": "",
+        "website": "http://www.http://tsuruno-ah.com/",
         "english": "",
         "note": "Closed national holidays."
       }
