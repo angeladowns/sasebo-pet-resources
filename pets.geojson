@@ -12,7 +12,7 @@
   },
   "properties": {
     "marker-symbol": "star",
-    "marker-color": "#f78914",
+    "marker-color": "#000000",
     "name": "Fleet Activities Sasebo",
     "address": "Hirasemachi, Sasebo-shi, Nagasaki-ken 857-0056"
   }
@@ -22,13 +22,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.7153628,
-          33.1746963
+          129.67422009999996,
+          33.1713994
         ]
       },
       "properties": {
-        "marker-symbol": "doctor-15",
-        "marker-color": "#000000",
+        "marker-symbol": "doctor-11",
+        "marker-color": "#fa1414",
         "name": "Ikeda Vet Clinic",
         "address": "1002-37 Hinochō, Sasebo-shi, Nagasaki-ken 858-0923",
         "telephone": "0956-28-4045",
@@ -48,13 +48,13 @@
       },
       "properties": {
         "marker-symbol": "doctor-15",
-        "marker-color": "#000000",
+        "marker-color": "#fa1414",
         "name": "Hamaguchi Vet Clinic",
         "address": "10-8 Kamishimacho, Sasebo, Nagasaki Prefecture 857-0067",
         "telephone": "0956-25-9914",
         "website": "http://www.hamaguchi-vet.jp",
         "english": "Some",
-        "note": "Closed Sunday and national holidays."
+        "note": "Closed Sundays and national holidays."
       }
     },
     {
@@ -67,14 +67,34 @@
         ]
       },
       "properties": {
-        "marker-symbol": "doctor-15",
-        "marker-color": "#000000",
+        "marker-symbol": "doctor",
+        "marker-color": "#fa1414",
         "name": "Mine Pet Clinic",
         "address": "1101-22 Gonjōjichō, Sasebo-shi, Nagasaki-ken 859-3213",
         "telephone": "0956-38-9555",
         "website": "",
         "english": "Some",
-        "note": "Closed Sunday and national holidays."
+        "note": "Closed Sundays and national holidays."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.000,
+          33.000
+        ]
+      },
+      "properties": {
+        "marker-symbol": "doctor",
+        "marker-color": "#fa1414",
+        "name": "Iwakiri Vet Clinic",
+        "address": "UNKNOWN",
+        "telephone": "0956-48-8181",
+        "website": "",
+        "english": "",
+        "note": "Closed Sundays and national holidays."
       }
     },
     {
@@ -87,14 +107,54 @@
         ]
       },
       "properties": {
-        "marker-symbol": "doctor-15",
-        "marker-color": "#000000",
+        "marker-symbol": "doctor",
+        "marker-color": "#fa1414",
         "name": "Yamanaka Vet Clinic",
         "address": "629-2 Kurokamichō, Sasebo-shi, Nagasaki-ken 857-1152",
         "telephone": "0956-34-0331",
         "website": "",
         "english": "",
-        "note": ""
+        "note": "Closed Sundays and national holidays."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.000,
+          33.000
+        ]
+      },
+      "properties": {
+        "marker-symbol": "doctor",
+        "marker-color": "#fa1414",
+        "name": "Atom Vet Clinic",
+        "address": "UNKNOWN",
+        "telephone": "0956-40-9045",
+        "website": "",
+        "english": "",
+        "note": "Closed Thursdays and national holidays."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.000,
+          33.000
+        ]
+      },
+      "properties": {
+        "marker-symbol": "doctor",
+        "marker-color": "#fa1414",
+        "name": "Tsuruno Vet Clinic",
+        "address": "UNKNOWN",
+        "telephone": "0956-58-6650",
+        "website": "",
+        "english": "",
+        "note": "Closed national holidays."
       }
     }
   ]
