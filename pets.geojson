@@ -149,12 +149,12 @@
       "properties": {
         "marker-symbol": "dog-park",
         "marker-color": "#fa1414",
-        "name": "Tsuruno Vet Clinic",
+        "name": "Tsuruno Animal Hospital",
         "address": "4159-2 Arifukuchō, Sasebo-shi, Nagasaki-ken 859-3241",
         "telephone": "0956-58-6650",
-        "website": "http://www.http://tsuruno-ah.com/",
+        "website": "http://tsuruno-ah.com/",
         "english": "",
-        "note": "Closed national holidays."
+        "hours": "M-F: 0900-1130, 1530-1830. Sat: 0900-1130, 1530-1730. Closed Sundays and national holidays."
       }
     },
     {
@@ -172,9 +172,9 @@
         "name": "Matsuo Animal Hospital",
         "address": "11-8 Katsutomichō, Sasebo-shi, Nagasaki-ken 857-0803",
         "telephone": "0956-42-1881",
-        "website": "",
+        "website": "http://nttbj.itp.ne.jp/0956421881/index.html",
         "english": "",
-        "note": "Closed national holidays."
+        "hours": "M-T-W-F-S: 0900-1200, 1500-1900. Closed Sundays and national holidays."
       }
     },
     {
@@ -194,7 +194,7 @@
         "telephone": "0956-40-7667",
         "website": "kaize-ah.com",
         "english": "",
-        "note": "Closed national holidays."
+        "hours": "Closed national holidays."
       }
     },
     {
