@@ -102,19 +102,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.772914,
-          33.1681211
+          129.7730613,
+          33.168154
         ]
       },
       "properties": {
-        "marker-symbol": "doctor",
+        "marker-symbol": "dog-park",
         "marker-color": "#fa1414",
-        "name": "Yamanaka Vet Clinic",
+        "name": "Yamanaka Animal Medical Hospital",
         "address": "629-2 Kurokamichō, Sasebo-shi, Nagasaki-ken 857-1152",
         "telephone": "0956-34-0331",
         "website": "",
         "english": "",
-        "note": "Closed Sundays and national holidays."
+        "hours": "M-F: 0900-1200, 1500-1900. Sat: 0900-1200, 1500-1800. Closed Sundays and national holidays."
       }
     },
     {
