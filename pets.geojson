@@ -196,6 +196,26 @@
         "english": "",
         "note": "Closed national holidays."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.749896,
+          33.157427
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dog-park",
+        "marker-color": "#fa1414",
+        "name": "Hinata Pet Clinic",
+        "address": "386-1 Yamatochō, Sasebo-shi, Nagasaki-ken 857-1165",
+        "telephone": "0956-80-4166",
+        "website": "http://www.hinata-petclinic.com",
+        "english": "",
+        "hours": "M-T-W-F-S: 0900-1200, 1530-1900. Sun: 0900-1200. Closed Thursdays and national holidays."
+      }
     }
   ]
 }
