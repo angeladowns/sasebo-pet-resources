@@ -27,14 +27,14 @@
         ]
       },
       "properties": {
-        "marker-symbol": "doctor-11",
+        "marker-symbol": "I",
         "marker-color": "#fa1414",
-        "name": "Ikeda Vet Clinic",
+        "name": "Ikeda Animal Hospital",
         "address": "1002-37 Hinochō, Sasebo-shi, Nagasaki-ken 858-0923",
         "telephone": "0956-28-4045",
         "website": "",
         "english": "Yes",
-        "note": "Closed Thursdays and national holidays."
+        "hours": "M-T-F-S-Sun: 0900-1145, 1530-1730 W: 0900-1145. Closed Thursdays and national holidays."
       }
     },
     {
