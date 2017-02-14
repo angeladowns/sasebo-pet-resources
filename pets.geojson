@@ -33,6 +33,26 @@
 "address": "Huis Ten Bosch Machi, Sasebo, Nagasaki Prefecture 859-3243"
 }
 },
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+  130.461144,
+  33.567118
+]
+},
+"properties": {
+"marker-symbol": "hospital",
+"marker-color": "#000000",
+"name": "Fukuoka Night Emergency Animal Hospital",
+"address": "2-40 Tsukiguma, Hakayta-ku, Fukuoka-shi, Fukuoka-ken 812-0858",
+"telephone": "0925-04-8999",
+"website": "http://www.pet99.net",
+"hours": "Everyday: 0900-0500.",
+"note": "Wellness exam fee is ¥8,000. Credit cards are accepted."
+}
+},
     {
       "type": "Feature",
       "geometry": {
