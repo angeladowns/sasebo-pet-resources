@@ -74,7 +74,7 @@
         "telephone": "0956-38-9555",
         "website": "http://www.gonzyouzi-animal-clinic.co.jp/",
         "english": "Some",
-        "hours": "M-T-W-F: 0900-1230, 1600-1900. Sat: 0900-1230. Closed Sundays and national holidays."
+        "hours": "M-T-W-T-F: 0900-1230, 1600-1900. Sat: 0900-1230. Closed Sundays and national holidays."
       }
     },
     {
@@ -82,19 +82,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.000,
-          33.000
+          129.66743710000003,
+          33.1788041
         ]
       },
       "properties": {
-        "marker-symbol": "doctor",
+        "marker-symbol": "dog-park",
         "marker-color": "#fa1414",
         "name": "Iwakiri Vet Clinic",
-        "address": "UNKNOWN",
+        "address": "440-3 Shiinokichō, Sasebo-shi, Nagasaki-ken 858-0925",
         "telephone": "0956-48-8181",
         "website": "",
         "english": "",
-        "note": "Closed Sundays and national holidays."
+        "hours": "M-F: 0900-1200, 1500-1900. Sat: 0900-1200, 1500-1800. Closed Sundays and national holidays."
       }
     },
     {
