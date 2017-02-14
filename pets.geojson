@@ -167,7 +167,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "doctor",
+        "marker-symbol": "dog-park",
         "marker-color": "#fa1414",
         "name": "Matsuo Animal Hospital",
         "address": "11-8 Katsutomichō, Sasebo-shi, Nagasaki-ken 857-0803",
@@ -187,14 +187,14 @@
         ]
       },
       "properties": {
-        "marker-symbol": "doctor",
+        "marker-symbol": "dog-park",
         "marker-color": "#fa1414",
         "name": "Kaize Animal Hospital",
         "address": "1307-4 Yoshiokachō, Sasebo-shi, Nagasaki-ken 857-0143",
         "telephone": "0956-40-7667",
-        "website": "kaize-ah.com",
+        "website": "http://kaize-ah.com",
         "english": "",
-        "hours": "Closed national holidays."
+        "hours": "M-T-W-T-F: 0900-1200, 1530-1900. Sat: 0900-1200, 1530-1800. Closed Sundays and national holidays."
       }
     },
     {
