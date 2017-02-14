@@ -17,6 +17,22 @@
     "address": "Hirasemachi, Sasebo-shi, Nagasaki-ken 857-0056"
   }
 },
+{
+"type": "Feature",
+"geometry": {
+"type": "Point",
+"coordinates": [
+  129.78843240000003,
+  33.087117
+]
+},
+"properties": {
+"marker-symbol": "star",
+"marker-color": "#000000",
+"name": "Hario Village Housing",
+"address": "Huis Ten Bosch Machi, Sasebo, Nagasaki Prefecture 859-3243"
+}
+},
     {
       "type": "Feature",
       "geometry": {
