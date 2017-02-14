@@ -54,7 +54,7 @@
         "telephone": "0956-25-9914",
         "website": "http://www.hamaguchi-vet.jp",
         "english": "Some",
-        "note": "M-S: 0900-1200, 1500-1830. Closed Sundays and national holidays."
+        "hours": "M-S: 0900-1200, 1500-1830. Closed Sundays and national holidays."
       }
     },
     {
@@ -62,19 +62,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.8035747,
-          33.1360707
+          129.80362300000002,
+          33.1359162
         ]
       },
       "properties": {
-        "marker-symbol": "doctor",
+        "marker-symbol": "dog-park",
         "marker-color": "#fa1414",
-        "name": "Mine Pet Clinic",
+        "name": "Miwa Animal Hospital",
         "address": "1101-22 Gonjōjichō, Sasebo-shi, Nagasaki-ken 859-3213",
         "telephone": "0956-38-9555",
-        "website": "",
+        "website": "http://www.gonzyouzi-animal-clinic.co.jp/",
         "english": "Some",
-        "note": "Closed Sundays and national holidays."
+        "hours": "M-T-W-F: 0900-1230, 1600-1900. Sat: 0900-1230. Closed Sundays and national holidays."
       }
     },
     {
