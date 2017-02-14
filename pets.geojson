@@ -156,6 +156,46 @@
         "english": "",
         "note": "Closed national holidays."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.73053649999997,
+          33.1736133
+        ]
+      },
+      "properties": {
+        "marker-symbol": "doctor",
+        "marker-color": "#fa1414",
+        "name": "Matsuo Vet Clinic",
+        "address": "11-8 Katsutomichō, Sasebo-shi, Nagasaki-ken 857-0803",
+        "telephone": "0956-42-1881",
+        "website": "",
+        "english": "",
+        "note": "Closed national holidays."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.69753349999996,
+          33.2112153
+        ]
+      },
+      "properties": {
+        "marker-symbol": "doctor",
+        "marker-color": "#fa1414",
+        "name": "Kaize Animal Hospital",
+        "address": "1307-4 Yoshiokachō, Sasebo-shi, Nagasaki-ken 857-0143",
+        "telephone": "0956-40-7667",
+        "website": "kaize-ah.com",
+        "english": "",
+        "note": "Closed national holidays."
+      }
     }
   ]
 }
