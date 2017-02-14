@@ -27,7 +27,7 @@
         ]
       },
       "properties": {
-        "marker-symbol": "I",
+        "marker-symbol": "dog-park",
         "marker-color": "#fa1414",
         "name": "Ikeda Animal Hospital",
         "address": "1002-37 Hinochō, Sasebo-shi, Nagasaki-ken 858-0923",
@@ -42,19 +42,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.7047802,
-          33.1666297
+          129.7047657,
+          33.166573
         ]
       },
       "properties": {
-        "marker-symbol": "doctor-15",
+        "marker-symbol": "dog-park",
         "marker-color": "#fa1414",
-        "name": "Hamaguchi Vet Clinic",
+        "name": "Hamaguchi Animal Hospital",
         "address": "10-8 Kamishimacho, Sasebo, Nagasaki Prefecture 857-0067",
         "telephone": "0956-25-9914",
         "website": "http://www.hamaguchi-vet.jp",
         "english": "Some",
-        "note": "Closed Sundays and national holidays."
+        "note": "M-S: 0900-1200, 1500-1830. Closed Sundays and national holidays."
       }
     },
     {
