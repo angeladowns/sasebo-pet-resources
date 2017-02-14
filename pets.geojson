@@ -122,19 +122,19 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          129.000,
-          33.000
+          129.72480329999996,
+          33.2103265
         ]
       },
       "properties": {
-        "marker-symbol": "doctor",
+        "marker-symbol": "dog-park",
         "marker-color": "#fa1414",
-        "name": "Atom Vet Clinic",
-        "address": "UNKNOWN",
+        "name": "Atom Pet Clinic",
+        "address": "69-4 Harubunchō, Sasebo-shi, Nagasaki-ken 857-0103",
         "telephone": "0956-40-9045",
-        "website": "",
+        "website": "http://nttbj.itp.ne.jp/0956409045/index.html",
         "english": "",
-        "note": "Closed Thursdays and national holidays."
+        "hours": "M-T-W-F-S: 0900-1200, 1500-1900. Sun: 0900-1200. Closed Thursdays and national holidays."
       }
     },
     {
