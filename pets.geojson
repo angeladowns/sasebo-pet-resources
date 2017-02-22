@@ -252,6 +252,27 @@
         "english": "",
         "hours": "M-T-W-F-S: 0900-1200, 1530-1900. Sun: 0900-1200. Closed Thursdays and national holidays."
       }
+    },
+
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.73157249999997,
+          33.177002
+        ]
+      },
+      "properties": {
+        "marker-symbol": "hairdresser",
+        "marker-color": "#fa1414",
+        "name": "Dog Space",
+        "address": "12-14 Susamachi, Sasebo-shi, Nagasaki-ken 857-0812",
+        "telephone": "0956-25-2246",
+        "website": "http://parusamu.on.omisenomikata.jp",
+        "english": "",
+        "hours": "M-T-W-F-S: 1000-1800. Closed Sundays and national holidays."
+      }
     }
   ]
 }
