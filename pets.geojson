@@ -265,13 +265,31 @@
       },
       "properties": {
         "marker-symbol": "hairdresser",
-        "marker-color": "#abdef5",
+        "marker-color": "#49bff5",
         "name": "Dog Space",
         "address": "12-14 Susamachi, Sasebo-shi, Nagasaki-ken 857-0812",
         "telephone": "0956-25-2246",
         "website": "http://parusamu.on.omisenomikata.jp",
         "english": "",
         "hours": "M-S: 1000-1800. Closed Sundays and national holidays."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7174665,
+          33.1751509
+        ]
+      },
+      "properties": {
+        "marker-symbol": "hairdresser",
+        "marker-color": "#49bff5",
+        "name": "Grooming Salon Eve",
+        "address": "4 Matsuurachō, Sasebo-shi, Nagasaki-ken 857-0052",
+        "on-site parking": "no",
+        "cash or credit": "cash"
       }
     }
   ]
