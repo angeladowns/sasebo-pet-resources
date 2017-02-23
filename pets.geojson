@@ -313,6 +313,27 @@
         "services": "grooming, supplies, pet food",
         "hours": "T-Sun: 0930-1800. Closed Mondays and every 2nd and 4th Sunday."
       }
+    },
+    ,
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7475773,
+          33.1512966
+        ]
+      },
+      "properties": {
+        "marker-symbol": "hairdresser",
+        "marker-color": "#49bff5",
+        "name": "Aeon Shiratake",
+        "address": "50-1 Shiratakechō, Sasebo-shi, Nagasaki-ken 857-1164",
+        "telephone": "0956-59-7121",
+        "website": "http://saseboshiratake.aeonkyushu.com/",
+        "services": "grooming, supplies, pet food",
+        "hours": "M-Sun: 0800-2200. Pet shop hours may be different."
+      }
     }
   ]
 }
