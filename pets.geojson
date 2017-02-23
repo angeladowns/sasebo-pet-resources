@@ -314,7 +314,6 @@
         "hours": "T-Sun: 0930-1800. Closed Mondays and every 2nd and 4th Sunday."
       }
     },
-    ,
     {
       "type": "Feature",
       "geometry": {
@@ -333,6 +332,26 @@
         "website": "http://saseboshiratake.aeonkyushu.com/",
         "services": "grooming, supplies, pet food",
         "hours": "M-Sun: 0800-2200. Pet shop hours may be different."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.7475773,
+          33.1512966
+        ]
+      },
+      "properties": {
+        "marker-symbol": "hairdresser",
+        "marker-color": "#49bff5",
+        "name": "Dog's Beauty Salon Pochi",
+        "address": "3 Chome-2-20 Setogoe, Sasebo-shi, Nagasaki-ken 857-0134",
+        "telephone": "0956-49-2415",
+        "website": "http://sasebopetsalon-pochi.jimdo.com",
+        "services": "grooming, supplies, pet food, dog training",
+        "hours": "M-T-T-F-S-Sun: 1000-1800. Closed on Wednesdays."
       }
     }
   ]
