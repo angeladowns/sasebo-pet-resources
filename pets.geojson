@@ -253,6 +253,26 @@
         "hours": "M-T-W-F-S: 0900-1200, 1530-1900. Sun: 0900-1200. Closed Thursdays and national holidays."
       }
     },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.87165819999996,
+          33.068496
+        ]
+      },
+      "properties": {
+        "marker-symbol": "dog-park",
+        "marker-color": "#fa1414",
+        "name": "Nagasaki Animal Clinic",
+        "address": "58-4 Momozugō, Kawatana-chō, Higashisonogi-gun, Nagasaki-ken 859-3605",
+        "telephone": "0956-82-6631",
+        "website": "http://www.nagasaki-ac.com/",
+        "english": "",
+        "hours": "M-T-W-T-F-S: 0900-1200, 1600-1930. Closed Sundays and national holidays."
+      }
+    },
 
     {
       "type": "Feature",
