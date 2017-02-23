@@ -373,6 +373,26 @@
         "services": "grooming, supplies, pet food, dog training",
         "hours": "M-T-T-F-S-Sun: 1000-1800. Closed on Wednesdays."
       }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.78134160000002,
+          33.1445897
+        ]
+      },
+      "properties": {
+        "marker-symbol": "hairdresser",
+        "marker-color": "#49bff5",
+        "name": "Konan 'O' Store",
+        "address": "8-62 Daitōchō, Sasebo-shi, Nagasaki-ken 857-1161",
+        "telephone": "0956-20-0860",
+        "website": "http://hc-kohnan.com",
+        "services": "grooming, supplies, pet food, dog training",
+        "hours": "M-T-T-F-S-Sun: 0800-2100."
+      }
     }
   ]
 }
