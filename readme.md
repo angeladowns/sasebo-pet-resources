@@ -7,4 +7,6 @@ It can be challenging to find groomers, pet supply shops, and even veterinary cl
 ### View [The Map](pets.geojson)
 
 ### Contributing to the Map
-If you would like to contribute to the map, submit a [pull request](https://github.com/angeladowns/sasebo-pet-resources/pulls). 
+If you would like to contribute to the map, fork the project, add or edit a location by editing the pets.geojson file, and then submit a [pull request](https://github.com/angeladowns/sasebo-pet-resources/pulls). Your contributions are appreciated!
+
+Tip: If you have the address, you can use http://www.gps-coordinates.net/ to find longitude and latitude. 
