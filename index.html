@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset='utf-8' />
-    <title>Points on a map</title>
+    <title>Sasebo Pet Resources</title>
     <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
     <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.31.0/mapbox-gl.js'></script>
     <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.31.0/mapbox-gl.css' rel='stylesheet' />
@@ -11,7 +11,6 @@
         margin: 0;
         padding: 0;
       }
-
       #map {
         position: absolute;
         top: 0;
@@ -41,7 +40,7 @@
 
       var popup = new mapboxgl.Popup({ offset: [0, -15] })
         .setLngLat(feature.geometry.coordinates)
-        .setHTML('<h3>' + feature.properties.name + '</h3><p>Address: ' + feature.properties.address + '<br />Phone: ' + feature.properties.telephone + '</p>')
+        .setHTML('<h3>' + feature.properties.name + '</h3><p><strong>Address:</strong><br /> ' + feature.properties.address + '<br /><strong>Phone:</strong><br /> ' + feature.properties.telephone + '<br /><strong>Website:</strong><br /> ' + feature.properties.website + '<br /><strong>Services:</strong><br /> ' + feature.properties.services + '<br /><strong>Hours:</strong><br /> ' + feature.properties.hours + '</p>')
         .setLngLat(feature.geometry.coordinates)
         .addTo(map);
     });
